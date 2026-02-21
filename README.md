@@ -15,11 +15,23 @@ Installation of Python, VS Code, and essential tools
 
 Basic VS Code setup for Python development
 
-✅ Outcome
+🚀 Day 2 – AI/ML Journey | Python Fundamentals 
 
-Development environment successfully configured
+Aaj maine apni AI/ML journey mein Python ke core fundamentals cover kiye 💻🐍
 
-Clear understanding of course structure
+📚 Topics Covered:
+✅ Our First Python Program
+✅ Variables & Data Types
+✅ Keywords & Comments
+✅ Python Style Guide
+✅ Arithmetic, Relational & Logical Operators
+✅ Assignment Operators
+✅ Operator Precedence
+✅ Type Conversion & Casting
+✅ Taking User Input
+✅ Mini Practice: Average of 2 Numbers
+
+
 
 Ready to begin Python fundamentals for ML
 
