@@ -1,73 +1,111 @@
-📅 Day 01 – Introduction & Environment Setup
-🚀 Overview
+# 🚀 AI/ML Learning Journey
 
-This session focused on understanding the AI/ML roadmap and setting up the development environment required for the course.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![AI](https://img.shields.io/badge/Focus-AI%2FML-green)
+![Progress](https://img.shields.io/badge/Progress-4%20Days%20Completed-orange)
+![Consistency](https://img.shields.io/badge/Consistency-Daily%20Learning-red)
 
-📌 Key Highlights
+This repository documents my daily progress in Artificial Intelligence & Machine Learning.  
+I am building strong programming fundamentals before moving to advanced ML models.
 
-Understanding course objectives and learning roadmap
+---
 
-Overview of Machine Learning concepts & applications
+## 🛠️ Tech Stack
 
-Why Python is preferred for AI/ML
+- Python 🐍  
+- VS Code 💻  
+- Git & GitHub 🔧  
 
-Installation of Python, VS Code, and essential tools
+---
 
-Basic VS Code setup for Python development
+## 📅 Progress Tracker
 
-🚀 Day 2 – AI/ML Journey | Python Fundamentals 
+| Day | Topics | Status |
+|-----|--------|--------|
+| Day 01 | Introduction & Environment Setup | ✅ Completed |
+| Day 02 | Python Fundamentals (Part 1) | ✅ Completed |
+| Day 03 | Python Fundamentals (Part 2) | ✅ Completed |
+| Day 04 | Python Data Structures | ✅ Completed |
 
-Aaj maine apni AI/ML journey mein Python ke core fundamentals cover kiye 💻🐍
+---
 
-📚 Topics Covered:
-✅ Our First Python Program
-✅ Variables & Data Types
-✅ Keywords & Comments
-✅ Python Style Guide
-✅ Arithmetic, Relational & Logical Operators
-✅ Assignment Operators
-✅ Operator Precedence
-✅ Type Conversion & Casting
-✅ Taking User Input
-✅ Mini Practice: Average of 2 Numbers
+## 📅 Day 01 – Introduction & Environment Setup
 
+### 📌 Key Highlights
+- AI/ML roadmap overview  
+- Introduction to Machine Learning concepts  
+- Why Python for AI/ML  
+- Installed Python & VS Code  
+- Development environment setup  
 
+---
 
-Ready to begin Python fundamentals for ML
+## 🚀 Day 02 – Python Fundamentals (Part 1)
 
+### 📚 Topics Covered
+- First Python Program  
+- Variables & Data Types  
+- Keywords & Comments  
+- Style Guide  
+- Operators (Arithmetic, Relational, Logical)  
+- Assignment Operators  
+- Operator Precedence  
+- Type Conversion & Casting  
+- Taking User Input  
+- Average of 2 Numbers Program  
 
-🚀 Day 3 of My AI/ML Journey – Logic is Getting Stronger
+---
 
-Today was intense.
-Moved beyond basics and stepped deeper into real programming logic.
+## 🚀 Day 03 – Python Fundamentals (Part 2)
 
-📌 What I covered today (Python Fundamentals – Part 2):
+### 📚 Topics Covered
+- Conditional Statements  
+- Nested Conditions  
+- Match-Case  
+- While & For Loops  
+- Break & Continue  
+- range() Function  
+- Multiplication Table  
+- Sum of N Numbers  
+- Vowel Count  
+- Functions & Types  
+- Lambda Functions  
+- Factorial Program  
 
-✅ Conditional Statements (if-else)
-✅ Nested Conditions
-✅ Match-Case in Python
-✅ While & For Loops
-✅ Break & Continue
-✅ range() Function
-✅ Multiplication Table of N
-✅ Sum of N Numbers
-✅ Vowel Count Program
-✅ Functions in Python
-✅ Types of Functions
-✅ Lambda Functions
-✅ Factorial Program
+---
 
-This is where coding stops being syntax…
-and starts becoming problem-solving.
+## 🚀 Day 04 – Python Data Structures
 
-Understanding loops and functions changed the way I think about logic.
-Every program today felt like a small mental workout. 🧠💻
+### 📚 Topics Covered
+- Strings (Slicing & Formatting)  
+- Lists & List Methods  
+- Loops with Lists  
+- Tuples & Tuple Methods  
+- Dictionaries & Methods  
+- Sets & Methods  
+- Practice Problems  
 
-No skipping fundamentals.
-No rushing to Machine Learning models.
-Building strong logic first.
+---
 
-AI/ML Engineer in progress. 🚀
+## 🎯 Goal
 
-#Day3 #AI #MachineLearning #Python #CodingJourney #ProblemSolving #100DaysOfCode #Consistency
+To master Python fundamentals and gradually move toward:
+- NumPy  
+- Pandas  
+- Data Visualization  
+- Machine Learning Models  
+- Deep Learning  
 
+---
+
+## 📈 Long-Term Vision
+
+Becoming a skilled AI/ML Engineer by focusing on:
+- Strong problem-solving  
+- Clean coding practices  
+- Consistent daily learning  
+
+---
+
+⭐ Consistency > Motivation  
+💻 Learning Daily | Building Daily | Improving Daily  
