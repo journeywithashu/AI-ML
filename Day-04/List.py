@@ -7,3 +7,15 @@ marks[2] = 69
 print(type(marks))
 
 print(marks[0:4])
+
+#Methods
+nums = [1,2,3]
+
+nums.append(4)
+print(nums)
+
+nums.insert(2,10)
+print(nums)
+
+nums.sort(reverse = True)
+print(nums)
