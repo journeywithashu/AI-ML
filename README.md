@@ -2,7 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![AI](https://img.shields.io/badge/Focus-AI%2FML-green)
-![Progress](https://img.shields.io/badge/Progress-4%20Days%20Completed-orange)
+![100 Days Challenge](https://img.shields.io/badge/100DaysOfCode-Day%205%2F100-blue)
+![Progress](https://img.shields.io/badge/Progress-5%25%20Complete-orange)
 ![Consistency](https://img.shields.io/badge/Consistency-Daily%20Learning-red)
 
 This repository documents my daily progress in Artificial Intelligence & Machine Learning.  
@@ -18,6 +19,18 @@ I am building strong programming fundamentals before moving to advanced ML model
 
 ---
 
+## 📈 100 Days Progress
+
+Progress:  █████░░░░░░░░░░░░░░░░ 5%
+
+Day 01 ✅  
+Day 02 ✅  
+Day 03 ✅  
+Day 04 ✅  
+Day 05 🔄 In Progress  
+
+---
+
 ## 📅 Progress Tracker
 
 | Day | Topics | Status |
@@ -26,6 +39,7 @@ I am building strong programming fundamentals before moving to advanced ML model
 | Day 02 | Python Fundamentals (Part 1) | ✅ Completed |
 | Day 03 | Python Fundamentals (Part 2) | ✅ Completed |
 | Day 04 | Python Data Structures | ✅ Completed |
+| Day 05 | Python Advanced Concepts (Part 4) | 🔄 In Progress |
 
 ---
 
@@ -84,6 +98,24 @@ I am building strong programming fundamentals before moving to advanced ML model
 - Dictionaries & Methods  
 - Sets & Methods  
 - Practice Problems  
+
+---
+
+## 🚀 Day 05 – Python Advanced Concepts (Part 4)
+
+### 📚 Topics Covered (First 9 Lectures)
+- Modules & Import Statements  
+- Built-in Modules  
+- Creating Custom Modules  
+- dir() Function  
+- if __name__ == "__main__"  
+- Virtual Environment  
+- File I/O Basics  
+- Reading & Writing Files  
+- Recursion  
+
+### 💡 Key Learning
+Understanding modules, file handling, and recursion is a major step toward writing scalable and modular Python programs.
 
 ---
 
