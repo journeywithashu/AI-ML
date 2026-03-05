@@ -27,7 +27,7 @@ Day 01 ✅
 Day 02 ✅  
 Day 03 ✅  
 Day 04 ✅  
-Day 05 🔄 In Progress  
+Day 05 ✅ Completed  
 
 ---
 
@@ -39,7 +39,7 @@ Day 05 🔄 In Progress
 | Day 02 | Python Fundamentals (Part 1) | ✅ Completed |
 | Day 03 | Python Fundamentals (Part 2) | ✅ Completed |
 | Day 04 | Python Data Structures | ✅ Completed |
-| Day 05 | Python Advanced Concepts (Part 4) | 🔄 In Progress |
+| Day 05 | Object Oriented Programming in Python | ✅ Completed |
 
 ---
 
@@ -101,27 +101,35 @@ Day 05 🔄 In Progress
 
 ---
 
-## 🚀 Day 05 – Python Advanced Concepts (Part 4)
+## 🚀 Day 05 – Object Oriented Programming (OOPs)
 
-### 📚 Topics Covered (First 9 Lectures)
-- Modules & Import Statements  
-- Built-in Modules  
-- Creating Custom Modules  
-- dir() Function  
-- if __name__ == "__main__"  
-- Virtual Environment  
-- File I/O Basics  
-- Reading & Writing Files  
-- Recursion  
+### 📚 Topics Covered
+- What is Object Oriented Programming  
+- Classes & Objects  
+- Attributes & Methods  
+- Constructor (`__init__`) Method  
+- Types of Constructors  
+- Class Attributes & Instance Attributes  
+- Instance Methods  
+- Class Methods  
+- Static Methods  
+- Encapsulation  
+- Inheritance  
+- Types of Inheritance  
+- Abstraction  
+- Polymorphism (Function Overriding)  
+- Duck Typing  
 
 ### 💡 Key Learning
-Understanding modules, file handling, and recursion is a major step toward writing scalable and modular Python programs.
+OOP helps organize code into reusable and scalable structures.  
+Concepts like inheritance, polymorphism, and encapsulation are essential for writing maintainable software.
 
 ---
 
 ## 🎯 Goal
 
 To master Python fundamentals and gradually move toward:
+
 - NumPy  
 - Pandas  
 - Data Visualization  
@@ -133,6 +141,7 @@ To master Python fundamentals and gradually move toward:
 ## 📈 Long-Term Vision
 
 Becoming a skilled AI/ML Engineer by focusing on:
+
 - Strong problem-solving  
 - Clean coding practices  
 - Consistent daily learning  
@@ -140,4 +149,4 @@ Becoming a skilled AI/ML Engineer by focusing on:
 ---
 
 ⭐ Consistency > Motivation  
-💻 Learning Daily | Building Daily | Improving Daily  
+💻 Learning Daily | Building Daily | Improving Daily
