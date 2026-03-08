@@ -1,4 +1,2 @@
-this is a sample file
-for demo of
-File I/O in Python
-programming language
+Text to overwrite 
+ the complete data.

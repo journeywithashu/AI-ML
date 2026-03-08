@@ -4,8 +4,8 @@ from pathlib import Path
 file_path = Path(__file__).parent / "sample.txt"
 
 
-f = open(file_path,"r") #file Object
-data = f.read()
+f = open(file_path,"w") #file Object
+data = f.write("Text to overwrite \n the complete data.")
 print(data)
 
 f.close()
