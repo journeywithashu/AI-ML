@@ -2,8 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![AI](https://img.shields.io/badge/Focus-AI%2FML-green)
-![100 Days Challenge](https://img.shields.io/badge/100DaysOfCode-Day%205%2F100-blue)
-![Progress](https://img.shields.io/badge/Progress-5%25%20Complete-orange)
+![100 Days Challenge](https://img.shields.io/badge/100DaysOfCode-Day%206%2F100-blue)
+![Progress](https://img.shields.io/badge/Progress-6%25%20Complete-orange)
 ![Consistency](https://img.shields.io/badge/Consistency-Daily%20Learning-red)
 
 This repository documents my daily progress in Artificial Intelligence & Machine Learning.  
@@ -21,13 +21,14 @@ I am building strong programming fundamentals before moving to advanced ML model
 
 ## 📈 100 Days Progress
 
-Progress:  █████░░░░░░░░░░░░░░░░ 5%
+Progress:  ██████░░░░░░░░░░░░░░░ 6%
 
 Day 01 ✅  
 Day 02 ✅  
 Day 03 ✅  
 Day 04 ✅  
-Day 05 ✅ Completed  
+Day 05 ✅  
+Day 06 ✅ Completed  
 
 ---
 
@@ -40,6 +41,7 @@ Day 05 ✅ Completed
 | Day 03 | Python Fundamentals (Part 2) | ✅ Completed |
 | Day 04 | Python Data Structures | ✅ Completed |
 | Day 05 | Object Oriented Programming in Python | ✅ Completed |
+| Day 06 | File Handling & Exception Handling | ✅ Completed |
 
 ---
 
@@ -121,8 +123,26 @@ Day 05 ✅ Completed
 - Duck Typing  
 
 ### 💡 Key Learning
-OOP helps organize code into reusable and scalable structures.  
-Concepts like inheritance, polymorphism, and encapsulation are essential for writing maintainable software.
+OOP helps organize code into reusable and scalable structures and is essential for writing maintainable software.
+
+---
+
+## 🚀 Day 06 – File Handling & Exception Handling
+
+### 📚 Topics Covered
+- File I/O in Python  
+- Operations on Files  
+- File Modes (Read, Write, Append)  
+- `with` Keyword for File Handling  
+- Deleting Files  
+- Practice Problems  
+- Exception Handling  
+- `finally` Keyword  
+- List Comprehensions  
+- Working with JSON Module  
+
+### 💡 Key Learning
+File handling allows programs to store and retrieve data efficiently, while exception handling makes programs more reliable and error-resistant.
 
 ---
 
