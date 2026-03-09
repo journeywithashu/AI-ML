@@ -2,8 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![AI](https://img.shields.io/badge/Focus-AI%2FML-green)
-![100 Days Challenge](https://img.shields.io/badge/100DaysOfCode-Day%206%2F100-blue)
-![Progress](https://img.shields.io/badge/Progress-6%25%20Complete-orange)
+![100 Days Challenge](https://img.shields.io/badge/100DaysOfCode-Day%207%2F100-blue)
+![Progress](https://img.shields.io/badge/Progress-7%25%20Complete-orange)
 ![Consistency](https://img.shields.io/badge/Consistency-Daily%20Learning-red)
 
 This repository documents my daily progress in Artificial Intelligence & Machine Learning.  
@@ -16,19 +16,22 @@ I am building strong programming fundamentals before moving to advanced ML model
 - Python 🐍  
 - VS Code 💻  
 - Git & GitHub 🔧  
+- Anaconda 🧪  
+- Jupyter Notebook 📓  
 
 ---
 
 ## 📈 100 Days Progress
 
-Progress:  ██████░░░░░░░░░░░░░░░ 6%
+Progress:  ███████░░░░░░░░░░░░░░ 7%
 
 Day 01 ✅  
 Day 02 ✅  
 Day 03 ✅  
 Day 04 ✅  
 Day 05 ✅  
-Day 06 ✅ Completed  
+Day 06 ✅  
+Day 07 ✅ Completed  
 
 ---
 
@@ -42,6 +45,7 @@ Day 06 ✅ Completed
 | Day 04 | Python Data Structures | ✅ Completed |
 | Day 05 | Object Oriented Programming in Python | ✅ Completed |
 | Day 06 | File Handling & Exception Handling | ✅ Completed |
+| Day 07 | Data Science Environment Setup | ✅ Completed |
 
 ---
 
@@ -143,6 +147,19 @@ OOP helps organize code into reusable and scalable structures and is essential f
 
 ### 💡 Key Learning
 File handling allows programs to store and retrieve data efficiently, while exception handling makes programs more reliable and error-resistant.
+
+---
+
+## 🚀 Day 07 – Data Science Environment Setup
+
+### 📚 Topics Covered
+- Installing Anaconda  
+- Understanding Conda Prompt  
+- Installing Jupyter Notebook  
+- Installing JupyterLab  
+
+### 💡 Key Learning
+Setting up the right environment is essential for data science and machine learning workflows. Tools like Anaconda and Jupyter provide a powerful ecosystem for experimentation and analysis.
 
 ---
 

@@ -1,0 +1,10 @@
+## 🚀 Day 07 – Data Science Environment Setup
+
+### 📚 Topics Covered
+- Installing Anaconda  
+- Understanding Conda Prompt  
+- Installing Jupyter Notebook  
+- Installing JupyterLab  
+
+### 💡 Key Learning
+Today’s focus was on setting up the data science environment required for machine learning workflows. Tools like Anaconda and Jupyter provide a powerful ecosystem for managing Python environments and running interactive notebooks for data analysis and experimentation.
