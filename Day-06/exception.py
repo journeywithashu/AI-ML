@@ -10,3 +10,6 @@ except ValueError:
 
 else:
      print(f"ans = {ans}")
+
+finally:
+     print("End of program")
